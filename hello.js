@@ -1,4 +1,4 @@
-console.log("this is hello.js file edited from b2")
+console.log("this is hello.js file edited from main")
 console.log("this is modification")
 console.log("new")
 console.log("new")
